@@ -16,6 +16,7 @@ connectDB();
 // instances of the express
 const app=express();
 
+
 // middleware
 app.use(cors());
 app.use(express.json());
@@ -35,7 +36,6 @@ app.get('/',(req,res)=>{
 
 // PORT 
 const PORT=process.env.PORT||8080;
-
 
 app.listen(PORT,()=>{
     console.log(`server running on  port ${PORT}`.blue);
