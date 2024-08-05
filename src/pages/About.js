@@ -14,7 +14,7 @@ const About = () => {
             Hey Welcome To ShopNow!!
           </h3>
           <h5 className='mb-6'>
-            I'm Aditya Ranjan, Currently pursuing B.Tech From Computer Science & Engineering
+            I'm Aditya Ranjan, a graduate of IIIT Ranchi with a B.Tech in Computer Science & Engineering, having completed my studies in May 2024.
           </h5>
         </div>
       </div>
